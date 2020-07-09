@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm currently working as a Quality Assurance Engineer at [Delivero](https://Delivero.rs), I'm responsible for:
-  
 • Delivero Android and iOS apps
 • Delivero Mission Control
 • Delivero Snippet
@@ -12,6 +11,6 @@ I'm currently working as a Quality Assurance Engineer at [Delivero](https://Deli
 - 👯 Ready to collaborate on Startup end user applicatipons 
 - 🤔 I’m looking for help with [Day32](https://github.com/draganovik/Day32)
 - 💬 Will talk about **User Experience Design**
-- 📫 Reach me at: mladen@draganovik.com, and social media **@draganovik**
+- 📫 Reach me at: mladen@draganovik.com, or social media **@draganovik**
 - ⚡ Fun fact: If you want to meet me, just offer me coffee
 
