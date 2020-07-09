@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm currently working as a Quality Assurance Engineer at [Delivero](https://Delivero.rs), I'm responsible for:\
-- Delivero Android and iOS apps\
-- Delivero Mission Control\
-- Delivero Snippet\
-- Delivero website
+    - Delivero Android and iOS apps\
+    - Delivero Mission Control\
+    - Delivero Snippet\
+    - Delivero website
 
 - 🔭 I’m currently working on **Vue.js** projects
 - 🌱 Seeking knowlage of **Google Flutter** Framework
