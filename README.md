@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mladen 👋
 
 - 🔭 I’m currently working on **Vue.js** projects
 - 🌱 Seeking knowlage of **Google Flutter** Framework
