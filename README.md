@@ -1,5 +1,6 @@
 ### Hi, I'm Mladen 👋
 
+- 👨‍💻 I am UX Software Developer, I design and develop software.
 - 🔭 I’m currently working on **Vue.js** projects
 - 🌱 Seeking knowlage of [.NET 5](https://github.com/dotnet/core)  & [Flutter](https://github.com/flutter/flutter)
 - 👯 Ready to collaborate on new startup projects 
