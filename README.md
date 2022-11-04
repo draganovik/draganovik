@@ -2,7 +2,7 @@
 
 👨‍💻 I **design** and **develop** software<br>🔭 I’m currently working on **Integrations** with [MuleSoft](https://www.mulesoft.com/) technology<br>🌱 Seeking knowlage of [.NET Core](https://github.com/dotnet/core)<br>🤝 Ready to collaborate on new creative projects <!-- - 🤔 I’m looking for help with building a [Day32](https://github.com/draganovik/Day32) platform --><br>💬 Will talk about **new** ideas and future plans<br>📫 Reach me at: mladen@draganovik.com, or social media **@draganovik**<br>☕️ If you want to hang out, let's meet for coffee!
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/draganovik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/draganovik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/draganovik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@draganovik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/draganovik) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/draganovik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/draganovik) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@draganovik)
 
 ## 💻 Tech Stack
 
