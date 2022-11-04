@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mladen
+# 👋 hello, I'm Mladen
 
 👨‍💻 I **design** and **develop** software<br>🔭 I’m currently working on **Integrations** with [MuleSoft](https://www.mulesoft.com/) technology<br>🌱 Seeking knowlage of [.NET Core](https://github.com/dotnet/core)<br>🤝 Ready to collaborate on new creative projects <!-- - 🤔 I’m looking for help with building a [Day32](https://github.com/draganovik/Day32) platform --><br>💬 Will talk about **new** ideas and future plans<br>📫 Reach me at: mladen@draganovik.com, or social media **@draganovik**<br>☕️ If you want to hang out, let's meet for coffee!
 
@@ -17,6 +17,10 @@
 #### Databases
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📈 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=draganovik&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=HTML,Dart)
 
 ## 💸 You can support me by Donating
 
