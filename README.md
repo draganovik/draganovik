@@ -2,11 +2,7 @@
 
 👨‍💻 I **design** and **develop** software<br>🔭 I’m currently working on **Integrations** with [MuleSoft](https://www.mulesoft.com/) technology<br>🌱 Seeking knowlage of [.NET Core](https://github.com/dotnet/core)<br>🤝 Ready to collaborate on new creative projects <!-- - 🤔 I’m looking for help with building a [Day32](https://github.com/draganovik/Day32) platform --><br>💬 Will talk about **new** ideas and future plans<br>📫 Reach me at: mladen@draganovik.com, or social media **@draganovik**<br>☕️ If you want to hang out, let's meet for coffee!
 
-<br/>
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/draganovik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/draganovik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/draganovik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@draganovik)
-
-<br/>
 
 ## 💻 Tech Stack
 
@@ -21,8 +17,6 @@
 #### Databases
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/>
 
 ## 💸 You can support me by Donating
 
